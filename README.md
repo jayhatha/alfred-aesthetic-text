@@ -5,7 +5,7 @@ HOW TO USE
 -----
 1) download workflow, add to Alfred by double-clicking
 2) select text, hit cmd-opt-F, text becomes ＦＵＬＬＷＩＤＴＨ ＡＥＳＴＨＥＴＩＣ.
-OR 
+#### OR 
 3) use 'fw' Alfred keyword and enter the text you want to paste ａｅｓｔｈｅｔｉｃａｌｌｙ.
 
 CREDITS
