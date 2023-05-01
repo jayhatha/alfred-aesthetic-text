@@ -1,5 +1,5 @@
 # alfred-aesthetic-text
-Make that text ａｅｓｔｈｅｔｉｃ using full-width Japanese characters.
+Make that text ａｅｓｔｈｅｔｉｃ using full-width characters.
 
 HOW TO USE
 -----
